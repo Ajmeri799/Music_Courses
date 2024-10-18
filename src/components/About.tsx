@@ -18,16 +18,16 @@ function About() {
           Welcome to Space Music Academy,
         </h1>
         <p className="  mt-4 text-center text-gray-100 ">
-          Welcome to Space Music Academy, where passion meets excellence! At
-          Harmony, we believe that music has the power to transform lives, and
-          we are dedicated to nurturing the musical talents of our students.
-          Founded on the principles of creativity, discipline, and artistic
-          expression, our academy offers a comprehensive range of programs for
-          students of all ages and skill levels.Our mission is to provide
-          high-quality music education that inspires and empowers students to
-          achieve their full potential. We strive to create an environment where
-          creativity flourishes, and students can explore their musical
-          interests with guidance from experienced instructors.
+          Welcome to Music Academy, where passion meets excellence! At Harmony,
+          we believe that music has the power to transform lives, and we are
+          dedicated to nurturing the musical talents of our students. Founded on
+          the principles of creativity, discipline, and artistic expression, our
+          academy offers a comprehensive range of programs for students of all
+          ages and skill levels.Our mission is to provide high-quality music
+          education that inspires and empowers students to achieve their full
+          potential. We strive to create an environment where creativity
+          flourishes, and students can explore their musical interests with
+          guidance from experienced instructors.
         </p>
       </div>
     </div>
